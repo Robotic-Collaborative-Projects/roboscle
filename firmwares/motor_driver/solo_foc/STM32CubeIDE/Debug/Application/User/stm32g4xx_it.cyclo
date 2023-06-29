@@ -1,0 +1,3 @@
+stm32g4xx_it.c:79:6:FDCAN1_IT0_IRQHandler	1
+stm32g4xx_it.c:93:6:FDCAN1_IT1_IRQHandler	1
+stm32g4xx_it.c:107:6:TIM2_IRQHandler	1

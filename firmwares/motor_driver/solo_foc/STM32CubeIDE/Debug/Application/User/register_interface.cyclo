@@ -1,0 +1,4 @@
+register_interface.c:37:16:RI_SetRegCommandParser	86
+register_interface.c:111:16:RI_GetRegCommandParser	100
+register_interface.c:1030:9:RI_GetIDSize	2
+register_interface.c:1064:16:RI_GetPtrReg	19

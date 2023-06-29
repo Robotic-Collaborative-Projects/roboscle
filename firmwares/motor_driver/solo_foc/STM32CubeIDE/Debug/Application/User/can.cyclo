@@ -1,0 +1,5 @@
+can.c:29:6:can_init	3
+can.c:43:6:sendFDCANRespond	1
+can.c:59:6:HAL_FDCAN_RxFifo0Callback	2
+can.c:71:6:can_events	2
+can.c:81:6:configureCANFilter	3

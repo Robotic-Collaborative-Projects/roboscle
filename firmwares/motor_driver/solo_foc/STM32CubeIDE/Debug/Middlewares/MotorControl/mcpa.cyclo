@@ -1,0 +1,3 @@
+mcpa.c:31:6:MCPA_dataLog	19
+mcpa.c:164:6:MCPA_flushDataLog	5
+mcpa.c:203:9:MCPA_cfgLog	11

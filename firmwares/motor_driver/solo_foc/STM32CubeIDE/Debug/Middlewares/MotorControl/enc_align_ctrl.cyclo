@@ -1,0 +1,6 @@
+enc_align_ctrl.c:45:13:EAC_Init	1
+enc_align_ctrl.c:72:13:EAC_StartAlignment	1
+enc_align_ctrl.c:119:13:EAC_Exec	3
+enc_align_ctrl.c:159:13:EAC_IsAligned	1
+enc_align_ctrl.c:173:13:EAC_SetRestartState	1
+enc_align_ctrl.c:194:13:EAC_GetRestartState	1
