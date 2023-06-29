@@ -17,3 +17,4 @@ The DAQ system used to communicate with the driver is based on the [Teensy 4.1 w
 `firmwares\motor_driver\solo_foc\STM32CubeIDE\.project`
 - STM MCSDK Projet: `firmwares\motor_driver\solo_foc.stwb6`
 - STM CubeMX Project: `firmwares\motor_driver\solo_foc\solo_foc.ioc`
+- DAQ Arduino Project: `firmwares\teensy_daq_node\teensy_daq_node.ino`
