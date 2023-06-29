@@ -1,6 +1,0 @@
-encoder_speed_pos_fdbk.c:61:13:ENC_Init	2
-encoder_speed_pos_fdbk.c:116:13:ENC_Clear	2
-encoder_speed_pos_fdbk.c:144:16:ENC_CalcAngle	1
-encoder_speed_pos_fdbk.c:202:13:ENC_CalcAvrgMecSpeedUnit	23
-encoder_speed_pos_fdbk.c:358:13:ENC_SetMecAngle	2
-encoder_speed_pos_fdbk.c:398:14:ENC_IRQHandler	1
