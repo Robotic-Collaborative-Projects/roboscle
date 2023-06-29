@@ -50,4 +50,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-firmwares/solo_foc/STM32CubeIDE/Debug
+firmwares/motor_driver/solo_foc/STM32CubeIDE/Debug
